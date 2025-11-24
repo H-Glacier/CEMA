@@ -29,6 +29,7 @@ License
 #include "extrapolatedCalculatedFvPatchFields.H"
 
 #include <Eigen/Dense>
+#include <vector>
 
 // * * * * * * * * * * * * * * * * Constructors  * * * * * * * * * * * * * * //
 
